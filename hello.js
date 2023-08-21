@@ -4,7 +4,9 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("\" Hello "+"World! \n fgfgf\"");
+//const { getRawInput } = require("readline-sync");
+
+//console.log("\" Hello "+"World! \n fgfgf\"");
 
 
 /*  
@@ -21,3 +23,5 @@ Modify your code on line 7 to try to accomplish the tasks listed below:
    8. Print a message that contains quote marks, such as Quoth the Raven "Nevermore".
    9. Other. You choose!
 */
+
+console.log('Hello, World!');
